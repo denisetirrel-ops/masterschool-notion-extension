@@ -49,3 +49,5 @@ Chrome shuts down an extension's service worker after roughly 30 seconds without
 Version 3.1.10. Six courses with 107 lessons transferred so far (SQL, Python, Power BI, spreadsheets).
 
 Built by Denise Tirrel in pair-programming sessions with Claude.
+
+© 2026 Denise Tirrel. All rights reserved.
