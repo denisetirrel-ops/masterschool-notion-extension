@@ -46,6 +46,6 @@ Chrome shuts down an extension's service worker after roughly 30 seconds without
 
 ## Status
 
-Version 3.1.10. All 22 lessons of Python Fundamentals transferred; further courses in progress.
+Version 3.1.10. Six courses with 107 lessons transferred so far (SQL, Python, Power BI, spreadsheets).
 
 Built by Denise Tirrel in pair-programming sessions with Claude.
